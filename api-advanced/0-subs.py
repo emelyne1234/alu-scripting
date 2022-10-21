@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Return the number of subscribers """
+""" Returns the number of subscribers """
 
 
 import json
